@@ -18,7 +18,7 @@
 | **Secondary audience** | Contract platforms (Turing and similar), peers, collaborators |
 | **Primary goal** | Turn a visit into a message, i.e. an interview |
 | **Secondary goals** | Live demo clicks, résumé download, GitHub / LinkedIn visits |
-| **Location** | Varanasi, Uttar Pradesh, India. Open to remote work and relocation |
+| **Location** | New Delhi, India. Open to remote work and relocation |
 | **Links** | GitHub `github.com/shivamgupta4880` · LinkedIn `linkedin.com/in/shivam-5-gupta` · `shivamgupt4880@gmail.com` |
 | **Format** | Cinematic one-page static site: `index.html`, `style.css`, `script.js`, `/assets` |
 
@@ -151,7 +151,7 @@ Then set `<body data-videos="on">` in `index.html`.
 ## 8. Act 1 — Hero
 1. **Scrub (0–60%):** Scene 1 plays with scroll. Captions: `// building…` → `// running 32 tests…` → `// deployed to production ✓`.
 2. **Match cut (62–86%):** the glass window grows from the screen to full viewport while the stage scales up and fades.
-3. **Live hero:** eyebrow `// Software Engineer · Full Stack · DevOps — Varanasi, IN`; **SHIVAM / GUPTA** (outline second line) at ~16.5vw; sub *"I **build it,** ship it, and keep it running."*; chips `react ✓ docker ✓ aws ✓`; buttons **See the work** / **Hire me**; status `● Open to SDE / DevOps roles — 2026`; window bar shows `pipeline: green`.
+3. **Live hero:** eyebrow `// Software Engineer · Full Stack · DevOps — New Delhi, IN`; **SHIVAM / GUPTA** (outline second line) at ~16.5vw; sub *"I **build it,** ship it, and keep it running."*; chips `react ✓ docker ✓ aws ✓`; buttons **See the work** / **Hire me**; status `● Open to SDE / DevOps roles — 2026`; window bar shows `pipeline: green`.
 4. Intro row: `Shivam Gupta — Software Engineer · Full Stack & DevOps` · `scroll to deploy ▌`.
 
 ## 9. Act 2 — Stats Strip
