@@ -1013,7 +1013,7 @@
         '',
         d.get('message').trim(),
       ].join('\n');
-      window.location.href = `mailto:shivamgupt4880@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      window.location.href = `mailto:info4880@shivamguptadev.me?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
       submit.classList.add('is-done');
       label.textContent = '✓ Request ready';
       toast('message ready in your email app ✓');

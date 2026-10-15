@@ -19,7 +19,7 @@
 | **Primary goal** | Turn a visit into a message, i.e. an interview |
 | **Secondary goals** | Live demo clicks, résumé download, GitHub / LinkedIn visits |
 | **Location** | New Delhi, India. Open to remote work and relocation |
-| **Links** | GitHub `github.com/shivamgupta4880` · LinkedIn `linkedin.com/in/shivam-5-gupta` · `shivamgupt4880@gmail.com` |
+| **Links** | GitHub `github.com/shivamgupta4880` · LinkedIn `linkedin.com/in/shivam-5-gupta` · `info4880@shivamguptadev.me` |
 | **Format** | Cinematic one-page static site: `index.html`, `style.css`, `script.js`, `/assets` |
 
 **The big idea [CD decision]: "Every scroll is a deploy."**
